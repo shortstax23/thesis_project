@@ -3,4 +3,6 @@
 !simulation.ipynb
 !plots/
 !plots/**
-
+!cpt_cfr_policy.pkl
+!standard_cfr_policy.pkl
+!simulation_results.csv
