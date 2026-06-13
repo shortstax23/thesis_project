@@ -45,7 +45,7 @@ Open [`simulation.ipynb`](simulation.ipynb) in Jupyter. It is organized into the
 5. **Test Exploitability of Policies** — reports exploitability and best-response value for each policy.
 6. **Agents** — defines `Bot` (samples actions from a fixed policy) and the `ETCAgent` / `ETCAgentV2` / `ETCAgentV3` exploiters.
 7. **Simulation Function** — `run_simulation`, `simple_simulation`, `show`, and `compare` helpers for running repeated matches and plotting average return vs. exploration budget `m`.
-8. **Simulations** — runs all experiments: ETC variants vs. CPT-CFR, different exploration strategies, ETC vs. standard CFR, and confidence-threshold ablations.
+8. **Simulations** — runs all experiments: ETC variants vs. CPT-CFR, different exploration strategies, ETC vs. standard CFR, and ETC with a threshold.
 9. **Store data from each simulation** — appends per-repetition results to `simulation_results.csv`.
 
 The cells that compute the CFR and CPT-CFR policies from scratch are clearly marked — they can be skipped by loading the corresponding `.pkl` files instead, since this is the slowest part of the notebook.
