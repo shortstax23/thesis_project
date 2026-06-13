@@ -1,4 +1,4 @@
-# Exploiting Risk-Sensitive Strategies in Leduc Poker: CPT-Reweighted CFR and Explore-Then-Commit Agents
+# Exploiting Cumulative Prospect Theory-Based CFR Agents in Extensive Form Games
 
 This repository contains the code for a thesis project studying how an opponent that deviates from Nash-equilibrium play in a risk-averse way can be detected and exploited in heads-up **Leduc Poker**, using [OpenSpiel](https://github.com/google-deepmind/open_spiel).
 
