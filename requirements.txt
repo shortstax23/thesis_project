@@ -1,5 +1,0 @@
-pyspiel 
-numpy
-pandas 
-matplotlib
-seaborn 

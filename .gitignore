@@ -1,0 +1,6 @@
+*
+!.gitignore
+!simulation.ipynb
+!plots/
+!plots/**
+
